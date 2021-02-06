@@ -1,2 +1,2 @@
 # HttpHostnameChecker
-Repository to test some of Cloud Run features
+Repository to test some of Cloud Run features.
